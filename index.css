@@ -1,11 +1,17 @@
 body {
+    width: 550px;
+    height: 550px;
     margin: 115px 50px;
     background-color: rgba(31, 41, 55, 1);
     color: rgba(255, 255, 255, 1);
-    font-family: Karla;
+}
+
+header {
+    font-family: Karia;
     font-weight: 800;
     font-style: ExtraBold;
     font-size: 40px;
+    margin-bottom: 20px;
 }
 
 .generate-btn {

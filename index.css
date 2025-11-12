@@ -1,15 +1,14 @@
 body {
-    margin: 0 auto;
+    margin: 115px 50px;
     background-color: rgba(31, 41, 55, 1);
     color: rgba(255, 255, 255, 1);
     font-family: Karla;
     font-weight: 800;
     font-style: ExtraBold;
     font-size: 40px;
-
 }
 
 .generate-btn {
-    padding: 9px 17px;
+    padding: 15px 17px;
     background-color: rgba(16, 185, 129, 1);
 }

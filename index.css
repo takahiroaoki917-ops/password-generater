@@ -1,3 +1,10 @@
 body {
     margin: 0 auto;
+    background-color: rgba(31, 41, 55, 1);
+}
+
+.generate-btn {
+    
+    background-color: rgba(16, 185, 129, 1);
+;
 }

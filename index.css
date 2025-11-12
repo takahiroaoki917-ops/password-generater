@@ -7,14 +7,23 @@ body {
 }
 
 header {
-    font-family: Karia;
+    font-family: "Karla", sans-serif;
     font-weight: 800;
     font-style: ExtraBold;
     font-size: 40px;
     margin-bottom: 20px;
 }
 
+section {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
 .generate-btn {
     padding: 15px 17px;
     background-color: rgba(16, 185, 129, 1);
+    font-family: Inter;
 }

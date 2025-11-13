@@ -23,8 +23,5 @@ console.log("Here is a random password: ", generatedPasswordOne)
 const generateBtn = document.getElementById("generate-btn")
 
 generateBtn.addEventListener("click", function() {
-    const passwordOne = document.getElementById("password-one")
-    const passwordTwo = document.getElementById("password-two")
-    passwordOne.textContent = generateRandomPassword()
-    passwordTwo.textContent = generateRandomPassword()
-}
+    
+})

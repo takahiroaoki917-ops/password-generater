@@ -1,12 +1,14 @@
 body {
     width: 550px;
     height: 550px;
-    margin: 115px 50px;
     background-color: rgba(31, 41, 55, 1);
     color: rgba(255, 255, 255, 1);
 }
 
 header {
+    width: 354px;
+    height: 80px;
+    margin: 115px 144px 10px 52px;
     font-family: "Karla", sans-serif;
     font-weight: 800;
     font-style: ExtraBold;
@@ -35,3 +37,7 @@ section {
     font-family: Inter;
 }
 
+.generated-password {
+    margin-top: 25px;
+    border-top: 1px solid #2F3E53;
+}
